@@ -11,11 +11,11 @@ inc:
   github:       bradstewart
   twitter:      atbradstewart
   # gplus:        '101183822199340201470'
-  about_link:   /about
+  # about_link:   /about
   
   # Product Information
   # product_link: http://incorporated.sendtoinc.com/
-  # tagline:      "Get a modern blog for your company"
+  tagline:      "random musings"
   
   # Comments
   disqus:
@@ -63,7 +63,7 @@ permalink:     pretty
 paginate_path: 'page:num'
 paginate: 10
 
-markdown:      maruku
+markdown:      kramdown
 markdown_ext:  markdown,mkd,mkdn,md
 textile_ext:   textile
 
@@ -106,6 +106,10 @@ kramdown:
 
 redcloth:
   hard_breaks: true
+
+# Default extension for new posts and pages
+post_ext: md
+page_ext: html
 
 #
 # jekyll-assets: see more at https://github.com/ixti/jekyll-assets

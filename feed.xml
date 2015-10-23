@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://www.bradstewart.co</link>
+    <atom:link href="http://www.bradstewart.co/feed.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <language>en-us</language>
+    <pubDate>Fri, 23 Oct 2015 08:00:29 +0000</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2015 08:00:29 +0000</lastBuildDate>
+
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://www.bradstewart.co/2015/10/23/hello-world/</link>
+      <pubDate>Fri, 23 Oct 2015 07:55:39 +0000</pubDate>
+      <author></author>
+      <guid>http://www.bradstewart.co/2015/10/23/hello-world</guid>
+      <description>&lt;p&gt;One day, I will write something.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+
+  </channel> 
+</rss>
